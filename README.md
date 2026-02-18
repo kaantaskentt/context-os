@@ -83,4 +83,4 @@ MIT
 
 ---
 
-Built by [Kaan](https://github.com/kaantaskentt) — [1% Session](https://1percentsession.com)
+Built by [Kaan](https://github.com/kaantaskentt) — [1% Session](https://onepercentsession.com)
